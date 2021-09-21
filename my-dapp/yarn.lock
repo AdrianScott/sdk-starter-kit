@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@aztec/contract-artifacts@^1.18.0":
-  version "1.18.0"
-  resolved "https://registry.yarnpkg.com/@aztec/contract-artifacts/-/contract-artifacts-1.18.0.tgz#38c94f0217a97d4232fb9ae4d2d01cfd57cd389f"
-  integrity sha512-FA0QIVGZKDkMe4dDmZRRirl0cXhfhBydlUaCt24Zx+bGSTeuT9wpPfp0K5HfILTD8tZ7YYGlx4cc4yw3x/RP1w==
+"@aztec/contract-artifacts@^1.20.0":
+  version "1.22.0"
+  resolved "https://registry.yarnpkg.com/@aztec/contract-artifacts/-/contract-artifacts-1.22.0.tgz#20d1ed6edfec7d4aab87307aff4f100f7fef3bb3"
+  integrity sha512-XRl+OybnkolAWxMwkBke1orXzlgX1xA5LlGNeuP+v/veTAhGf9KQm/mALkopc8iBVTWtHW+kJjzu3JjD6JcdeQ==
 
 "@aztec/guacamole-ui@1.2.0":
   version "1.2.0"
@@ -10767,9 +10767,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
