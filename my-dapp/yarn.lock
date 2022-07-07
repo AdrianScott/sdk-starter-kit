@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@aztec/contract-artifacts@^1.18.0":
-  version "1.18.0"
-  resolved "https://registry.yarnpkg.com/@aztec/contract-artifacts/-/contract-artifacts-1.18.0.tgz#38c94f0217a97d4232fb9ae4d2d01cfd57cd389f"
-  integrity sha512-FA0QIVGZKDkMe4dDmZRRirl0cXhfhBydlUaCt24Zx+bGSTeuT9wpPfp0K5HfILTD8tZ7YYGlx4cc4yw3x/RP1w==
+"@aztec/contract-artifacts@^1.20.0":
+  version "1.22.0"
+  resolved "https://registry.yarnpkg.com/@aztec/contract-artifacts/-/contract-artifacts-1.22.0.tgz#20d1ed6edfec7d4aab87307aff4f100f7fef3bb3"
+  integrity sha512-XRl+OybnkolAWxMwkBke1orXzlgX1xA5LlGNeuP+v/veTAhGf9KQm/mALkopc8iBVTWtHW+kJjzu3JjD6JcdeQ==
 
 "@aztec/guacamole-ui@1.2.0":
   version "1.2.0"
@@ -7210,9 +7210,9 @@ mkdirp@0.5.1, "mkdirp@>=0.5 0", mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.1:
     minimist "0.0.8"
 
 moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
