@@ -36,4 +36,4 @@ The Dapp will allow you to convert ERC20 tokens into zkTokens, send these zkToke
 
 ## Developer Guide
 
-**Checkout the full SDK docs [here](https://docs.aztecprotocol.com/#/SDK/Getting%20started)**
+**Checkout the full SDK docs [here](https://docs.aztec.network/developers/getting-started)**
