@@ -1,4 +1,6 @@
-# AZTEC SDK Starter Kit
+# DEPRECATED -- AZTEC SDK Starter Kit
+
+DEPRECATED, refer to [docs.aztec.network](https://docs.aztec.network/) for current documentation.
 
 This repository helps developers deploy AZTEC to Ganache or a testnet and start building a dApp using [AZTEC SDK](https://docs.aztecprotocol.com).
 
